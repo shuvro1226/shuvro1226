@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shuvro1226
+- 👋 Hi, I’m Mainul Hasan Shuvro
 - 👀 I’m interested in coding, photography and travelling
 - 🌱 I’m currently learning React 17
 - 📫 How to reach me: +491777255669, shuvro_hasan@hotmail.com
