@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mainul Hasan Shuvro
 - 👀 I’m interested in coding, photography and travelling
 - 🌱 I’m currently working with PHP, React and RESTful services
-- 📫 How to reach me: +491777255669, shuvro_hasan@hotmail.com
+- 📫 How to reach me: +491777255669, mainul.hasan.shuvro@gmail.com
 
 <!---
 shuvro1226/shuvro1226 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
