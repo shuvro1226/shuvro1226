@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mainul Hasan Shuvro
 - 👀 I’m interested in coding, photography and travelling
-- 🌱 I’m currently working with PHP, React and RESTful services
+- 🌱 I’m currently working with React, Next.js, NestJS and GraphQL
 - 📫 How to reach me: +491777255669, mainul.hasan.shuvro@gmail.com
 
 <!---
